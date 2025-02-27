@@ -1,16 +1,10 @@
-# secondtry
+# Our Project is all About:
+<ul>  
+  <li> Patient Medical History Database </li>
+  <li> Emergency Response Services </li>
+  <li> Counterfeit medicine search engine </li>
+  <li> Doctor authenticity </li>
+</ul>
 
-A new Flutter project.
+<p>We are in the beginning stages of our learning journey. As we keep learning new things we will work on this. Our aim is to make this a full fledged working app.</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
